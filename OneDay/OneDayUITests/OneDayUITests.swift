@@ -1,14 +1,14 @@
 //
-//  PlistWriteUITests.swift
-//  PlistWriteUITests
+//  OneDayUITests.swift
+//  OneDayUITests
 //
-//  Created by Qo_Tn on 2019/10/17.
+//  Created by Qo_Tn on 2019/10/21.
 //  Copyright © 2019 Qo_Tn. All rights reserved.
 //
 
 import XCTest
 
-class PlistWriteUITests: XCTestCase {
+class OneDayUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.

@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  PlistWrite
+//  OneDay
 //
-//  Created by Qo_Tn on 2019/10/17.
+//  Created by Qo_Tn on 2019/10/21.
 //  Copyright © 2019 Qo_Tn. All rights reserved.
 //
 
