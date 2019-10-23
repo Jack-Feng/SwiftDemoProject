@@ -12,9 +12,20 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        let string = """
+                    Hello Swift!
+                    Hello Swift!
+                    Hello Swift!
+                    """
+        print(string)
+        
+        let arrayM:NSMutableArray = NSMutableArray.init()
+        
+        arrayM.add(11)
+        
+        print(arrayM)
+        
     }
-
-
 }
 
